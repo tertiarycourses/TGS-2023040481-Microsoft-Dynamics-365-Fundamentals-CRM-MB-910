@@ -1,0 +1,11 @@
+OrderId,Email,OrderDate,OrderAmount,Channel
+O-9001,priya.raman@marinabayroasters.example.sg,2025-01-14,320.50,Web
+O-9002,priya.raman@marinabayroasters.example.sg,2025-03-22,410.00,Web
+O-9003,weiming.tan@marinabayroasters.example.sg,2025-02-08,180.75,Mobile
+O-9004,daniel.lim@jurongcafe.example.sg,2025-01-30,640.00,Web
+O-9005,daniel.lim@jurongcafe.example.sg,2025-04-11,520.25,Web
+O-9006,grace.chua@jurongcafe.example.sg,2025-03-05,95.00,Mobile
+O-9007,ravi.kumar@changikiosks.example.sg,2025-02-19,275.40,Web
+O-9008,james.ong@sentosaresorts.example.sg,2025-01-25,880.00,Web
+O-9009,james.ong@sentosaresorts.example.sg,2025-05-02,735.60,Web
+O-9010,meiling.ho@changikiosks.example.sg,2025-04-28,142.30,Mobile

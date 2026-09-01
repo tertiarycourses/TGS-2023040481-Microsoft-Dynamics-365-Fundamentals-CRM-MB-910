@@ -1,14 +1,87 @@
-# TGS-2023040481 - Microsoft Dynamics 365 Fundamentals (CRM) (MB-910)
+# WSQ — Microsoft Dynamics 365 Fundamentals (CRM) (MB-910)
 
-> **Course:** WSQ - Microsoft Dynamics 365 Fundamentals (CRM) (MB-910)  
-> **Course Code:** TGS-2023040481  
-> **Register here:** https://www.tertiarycourses.com.sg/wsq-microsoft-dynamics-365-fundamentals-crm-mb-910.html
+[![WSQ Funded](https://img.shields.io/badge/WSQ-Funded-1F6FEB?style=for-the-badge)](https://www.tertiarycourses.com.sg/wsq-microsoft-dynamics-365-fundamentals-crm-mb-910.html)
+[![Course Code](https://img.shields.io/badge/TGS--2023040481-Course%20Code-10B981?style=for-the-badge)](https://courses.myskillsfuture.gov.sg/courses/TGS-2023040481)
+[![Duration](https://img.shields.io/badge/2%20Days-16%20Hours-7C3AED?style=for-the-badge)](#course-schedule)
+[![Exam](https://img.shields.io/badge/Microsoft-MB--910-F59E0B?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/)
 
-These are the hands-on lab exercises for the WSQ Microsoft Dynamics 365 Fundamentals (CRM) (MB-910) course delivered by [Tertiary Infotech Academy Pte Ltd](https://www.tertiarycourses.com.sg/).
+> **Hands-on labs and learner guide for the WSQ course _Microsoft Dynamics 365 Fundamentals (CRM) (MB-910)_, delivered by [Tertiary Infotech Academy Pte Ltd](https://www.tertiarycourses.com.sg/) (UEN 201200696W).**
 
-This repository contains **10 guided labs** aligned to the Microsoft MB-910 Dynamics 365 customer engagement skill areas. The labs cover Customer Insights, Sales, Customer Service, Field Service, Microsoft Dataverse, Power Platform, shared activities, dashboards, integrations, and Copilot scenarios.
+### 👉 [**Register for this course**](https://www.tertiarycourses.com.sg/wsq-microsoft-dynamics-365-fundamentals-crm-mb-910.html)
 
-> **Microsoft exam status note:** Microsoft Learn states that Exam MB-910 retired on **December 31, 2025**. These labs preserve the published MB-910 CRM fundamentals objectives for course learning and platform familiarization.
+---
+
+## What this course covers
+
+Microsoft Dynamics 365 customer engagement is not one product but a family of applications sharing a single **Microsoft Dataverse** database. Over two days you build one continuous business scenario across all of them — so you see, hands-on, why "one shared data store" is the whole point.
+
+| | Application | What you do with it |
+|---|---|---|
+| 🎯 | **Customer Insights – Journeys** | Build segments, marketing emails, customer journeys, forms and events |
+| 🧩 | **Customer Insights – Data** | Unify three data sources into one customer profile; build measures and segments |
+| 💼 | **Sales** | Run the full lead → opportunity → quote → order → invoice cycle |
+| 🎧 | **Customer Service** | Resolve cases with knowledge, queues, routing, SLAs and entitlements |
+| 🔧 | **Field Service** | Create work orders with inspections; schedule resources; connect IoT |
+
+Everything runs on **Microsoft Dataverse** and the **Microsoft Power Platform** — Power Apps, Power Automate, Power BI, Power Pages and Copilot Studio — with **Copilot** embedded throughout.
+
+---
+
+## The scenario
+
+All ten labs share one story: **Contoso Coffee Singapore**, a commercial coffee-equipment supplier serving hospitality customers across Singapore.
+
+```
+Lab 2  →  You create the account "Marina Bay Roasters"
+Lab 7  →  That same account raises a support case
+Lab 9  →  That same account's espresso machine gets a work order
+Lab 10 →  That same machine becomes a tracked customer asset with an IoT device
+```
+
+One customer. One Dataverse. Four applications. That is the lesson.
+
+---
+
+## Lab catalogue
+
+Each lab has **its own folder** containing the instructions, a **printable PDF** and its **CSV mock data**.
+
+### Core customer engagement capabilities
+
+| # | Lab | Time |
+|---|-----|------|
+| 1 | [Navigate Dynamics 365 and Explore Dataverse](labs/lab-01-navigate-dynamics-365-and-explore-dataverse/) | 45 min |
+| 2 | [Manage Customers, Activities and Reporting Views](labs/lab-02-manage-customers-activities-and-reporting-views/) | 60 min |
+
+### Dynamics 365 Customer Insights
+
+| # | Lab | Time |
+|---|-----|------|
+| 3 | [Build a Segment, an Email and a Customer Journey](labs/lab-03-build-a-segment-an-email-and-a-customer-journey/) | 60 min |
+| 4 | [Unify Customer Data and Capture Feedback with Customer Voice](labs/lab-04-unify-customer-data-and-capture-feedback-with-custom/) | 45 min |
+
+### Dynamics 365 Sales
+
+| # | Lab | Time |
+|---|-----|------|
+| 5 | [Run the Lead-to-Cash Cycle: Lead, Opportunity, Quote, Order](labs/lab-05-run-the-lead-to-cash-cycle-lead-opportunity-quote-or/) | 60 min |
+| 6 | [Forecast the Pipeline and Evaluate Sales Insights](labs/lab-06-forecast-the-pipeline-and-evaluate-sales-insights/) | 45 min |
+
+### Dynamics 365 Customer Service
+
+| # | Lab | Time |
+|---|-----|------|
+| 7 | [Resolve a Case with Knowledge, Queues, SLAs and Entitlements](labs/lab-07-resolve-a-case-with-knowledge-queues-slas-and-entitl/) | 60 min |
+| 8 | [Omnichannel, Supervisor Insights and Service Analytics](labs/lab-08-omnichannel-supervisor-insights-and-service-analytic/) | 45 min |
+
+### Dynamics 365 Field Service
+
+| # | Lab | Time |
+|---|-----|------|
+| 9 | [Create and Complete a Work Order with an Inspection](labs/lab-09-create-and-complete-a-work-order-with-an-inspection/) | 55 min |
+| 10 | [Schedule Resources, Manage Assets and Connect IoT](labs/lab-10-schedule-resources-manage-assets-and-connect-iot/) | 55 min |
+
+📋 **[Full lab index](labs/README.md)**  ·  🔗 **[Tools and portals](labs/tools.md)**
 
 ---
 
@@ -16,69 +89,109 @@ This repository contains **10 guided labs** aligned to the Microsoft MB-910 Dyna
 
 | Artifact | File |
 |----------|------|
-| **Learner Guide (Markdown)** | [LG-Microsoft-Dynamics-365-Fundamentals-CRM-MB-910.md](LG-Microsoft-Dynamics-365-Fundamentals-CRM-MB-910.md) |
-| **Lab Index** | [labs/README.md](labs/README.md) |
-| **Tools and Portals** | [labs/tools.md](labs/tools.md) |
+| 📘 **Learner Guide** (Markdown) | [LG-Microsoft Dynamics 365 Fundamentals (CRM) (MB-910).md](LG-Microsoft%20Dynamics%20365%20Fundamentals%20%28CRM%29%20%28MB-910%29.md) |
+| 🧪 **Lab index** | [labs/README.md](labs/README.md) |
+| 🛠️ **Tools and portals** | [labs/tools.md](labs/tools.md) |
 
-> **Note:** assessment answers, scoring rubrics, and trainer-only materials are intentionally not published in this repository.
-
----
-
-## How to use
-
-1. Read the learner guide first to understand the CRM scenario and lab deliverables.
-2. Open each lab and complete the steps in order.
-3. Use a Dynamics 365 trial, trainer-provided tenant, screenshots, or Microsoft Learn modules depending on the environment available.
-4. Save your outputs as notes, tables, screenshots, or diagrams as instructed.
-5. Review the checkpoint questions at the end of each lab.
+> Slide deck, Lesson Plan and Learner Guide PDFs are distributed to enrolled learners through the **[LMS/TMS portal](https://lms-tms.tertiaryinfotech.com)**.
+>
+> ⚠️ **Assessment papers, answer keys and marking guides are confidential trainer material and are deliberately not published in this repository.**
 
 ---
 
-## Lab catalogue
+## Learning outcomes
 
-### Domain 1 - Describe Dynamics 365 Customer Insights
+| | Outcome |
+|---|---|
+| **LO1** | Develop strategies for implementing Microsoft Dynamics 365 CRM capabilities and utilising the tools to disseminate information |
+| **LO2** | Develop frameworks to define customer journeys for marketing on Microsoft Dynamics 365 CRM |
+| **LO3** | Manage strategies to optimise the deployment and performance of Dynamics 365 customer engagement apps |
+| **LO4** | Draw actionable insights from Dynamics 365 CRM data to evaluate team and service performance |
+| **LO5** | Review research outcomes and recommend investments in Dynamics 365 CRM tools and technologies |
 
-- [Lab 1 - Customer Insights Journeys, Segments, Forms, and Events](labs/lab-01-customer-insights-journeys-segments-events.md)
-- [Lab 2 - Customer Insights Data, Unified Profiles, Measures, and Predictions](labs/lab-02-customer-insights-data-profiles-measures.md)
-
-### Domain 2 - Describe Dynamics 365 Sales
-
-- [Lab 3 - Lead to Opportunity Process and Guided Selling](labs/lab-03-sales-leads-opportunities-guided-selling.md)
-- [Lab 4 - Product Catalog, Quotes, Orders, Invoices, Forecasting, and Copilot](labs/lab-04-sales-product-catalog-quotes-forecasting-copilot.md)
-
-### Domain 3 - Describe Dynamics 365 Customer Service
-
-- [Lab 5 - Case Lifecycle, Queues, Routing, SLAs, and Entitlements](labs/lab-05-customer-service-cases-queues-slas.md)
-- [Lab 6 - Knowledge, Omnichannel, Agent Productivity, Reporting, and Copilot](labs/lab-06-customer-service-knowledge-omnichannel-reporting.md)
-
-### Domain 4 - Describe Dynamics 365 Field Service
-
-- [Lab 7 - Work Orders, Assets, Inspections, and Mobile Field Service](labs/lab-07-field-service-work-orders-assets-inspections.md)
-- [Lab 8 - Resource Scheduling, Connected Field Service, and Field Service Copilot](labs/lab-08-field-service-scheduling-connected-copilot.md)
-
-### Domain 5 - Explore core customer engagement capabilities
-
-- [Lab 9 - Dataverse, Power Platform, Activities, Views, Charts, and Dashboards](labs/lab-09-dataverse-power-platform-activities-dashboards.md)
-- [Lab 10 - Teams, Outlook, Excel, Word, SharePoint, Copilot, and Readiness Review](labs/lab-10-integrations-copilot-capstone-readiness.md)
+**Skills Framework alignment:** Customer Relationship Management — `RET-RAN-4001-1.1`
 
 ---
 
-## Reference
+## Course schedule
 
-- [Microsoft MB-910 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/mb-910)
-- [Course registration page](https://www.tertiarycourses.com.sg/wsq-microsoft-dynamics-365-fundamentals-crm-mb-910.html)
-- [labs/tools.md](labs/tools.md) - Microsoft portals, trial options, and documentation links used in the labs
+| Day | Focus | Topics | Labs |
+|-----|-------|--------|------|
+| **1** | Core capabilities & Customer Insights | 1–4 | 1–4 |
+| **2** | Sales, Customer Service & Field Service | 5–10 | 5–10 |
+
+2 days · 16 hours total (14 hours instruction + 2 hours assessment) · 9:00 am – 6:00 pm
 
 ---
 
-## Free tools used
+## Getting started
 
-Most labs can be completed with Microsoft Learn, documentation, and a browser. If available, use a Microsoft Dynamics 365 trial or trainer-provided tenant for guided exploration.
+You need a **Microsoft Dynamics 365 environment**. In class the trainer provides one; outside class, get a free 30-day trial.
 
-- Microsoft Learn
-- Dynamics 365 documentation
-- Power Platform documentation
-- Microsoft Dataverse documentation
-- Dynamics 365 trial environment or trainer tenant
-- Markdown editor or GitHub web editor
+```bash
+# 1. Clone this repository
+git clone https://github.com/tertiarycourses/TGS-2023040481-Microsoft-Dynamics-365-Fundamentals-CRM-MB-910.git
+cd TGS-2023040481-Microsoft-Dynamics-365-Fundamentals-CRM-MB-910
 
+# 2. Start a free Dynamics 365 trial (30 days, no credit card)
+#    https://trials.dynamics.com
+
+# 3. Open Lab 1 and work through the labs in order
+open labs/lab-01-navigate-dynamics-365-and-explore-dataverse/README.md
+```
+
+**Three rules for the shared class tenant:**
+
+1. 🏷️ Record your user name up to the `@` — that is your **lab alias**. Prefix every record you create with your initials.
+2. 🔒 Never enter real personal data. All supplied mock data uses non-routable `example.sg` domains.
+3. ➡️ Work the labs **in order** — later labs use records created in earlier ones.
+
+---
+
+## Funding (Singapore)
+
+| | Eligibility | Nett fee |
+|---|---|---|
+| 💵 | Full fee (before GST) | SGD $1,000 |
+| 🇸🇬 | Singapore Citizens / PR aged 21+ | SGD $590 (50% funded) |
+| 🎓 | MCES / SME aged 40+ | SGD $390 (70% funded) |
+
+Also claimable via **SkillsFuture Credit (SFC)**, **SFEC**, **PSEA**, **UTAP** and **Absentee Payroll**.
+
+> Funding requires **≥ 75% attendance** (SSG digital attendance) and an assessment outcome of **Competent**.
+
+**Certification awarded:** Certificate of Achievement (Tertiary Infotech Academy) + **OpenCert** from SkillsFuture Singapore.
+
+---
+
+## Certification pathway
+
+This course maps to Microsoft's **[Dynamics 365 Fundamentals (CRM) — Exam MB-910](https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/)**.
+
+- 📝 Practise first: **[exams.tertiaryinfotech.com](https://exams.tertiaryinfotech.com)**
+- 🎟️ Exam voucher: **[Microsoft Fundamentals Certification Exam Voucher](https://www.tertiarycourses.com.sg/microsoft-fundamentals-certification-exam-voucher.html)**
+- 📖 Study guide: **[MB-910 skills measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/mb-910)**
+
+---
+
+## Continue your Microsoft journey
+
+- [WSQ — Microsoft Power Platform Fundamentals (PL-900)](https://www.tertiarycourses.com.sg/)
+- [WSQ — Microsoft Power BI Data Analyst (PL-300)](https://www.tertiarycourses.com.sg/)
+- [WSQ — Microsoft Power Apps Low-Code Application Development](https://www.tertiarycourses.com.sg/)
+- [WSQ — Microsoft Power Automate Workflow Automation](https://www.tertiarycourses.com.sg/)
+- [WSQ — Microsoft Azure AI Fundamentals (AI-900)](https://www.tertiarycourses.com.sg/)
+
+---
+
+## Acknowledgements
+
+Lab scenarios are adapted from the official Microsoft Learning **[MB-910T00A lab set](https://github.com/MicrosoftLearning/MB-910T00A-labs)** and the current **[Microsoft Learn MB-910 learning path](https://learn.microsoft.com/en-us/training/paths/prepare-teach-mb-910-microsoft-dynamics-365-fundamentals/)**, rewritten around a Singapore business scenario with mock data for classroom delivery.
+
+---
+
+## Support
+
+📧 [enquiry@tertiaryinfotech.com](mailto:enquiry@tertiaryinfotech.com) · 📞 +65 6100 0613 · 🌐 [tertiarycourses.com.sg](https://www.tertiarycourses.com.sg/)
+
+<sub>© 2026 Tertiary Infotech Academy Pte Ltd (UEN 201200696W). All rights reserved. Course materials are provided for enrolled learners. Microsoft, Dynamics 365, Power Platform and Azure are trademarks of Microsoft Corporation.</sub>

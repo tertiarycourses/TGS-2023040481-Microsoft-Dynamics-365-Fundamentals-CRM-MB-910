@@ -1,0 +1,6 @@
+Asset Name,Account,Product,Serial Number,Parent Asset,Install Date
+Espresso Machine E900 - Marina Bay,Marina Bay Roasters,Contoso Espresso Machine E900,E900-SG-0417,,2024-02-14
+Boiler assembly - E900-SG-0417,Marina Bay Roasters,Boiler Assembly Unit,BA-SG-1182,Espresso Machine E900 - Marina Bay,2024-02-14
+Grinder module - E900-SG-0417,Marina Bay Roasters,Contoso Burr Grinder G200,G200-SG-0913,Espresso Machine E900 - Marina Bay,2024-02-14
+Cold Brew Dispenser - Changi T3,Changi Airport Kiosks,Cold Brew Dispenser CB50,CB50-SG-0221,,2024-08-30
+Espresso Machine E900 - Jurong,Jurong Cafe Group,Contoso Espresso Machine E900,E900-SG-0522,,2025-01-09

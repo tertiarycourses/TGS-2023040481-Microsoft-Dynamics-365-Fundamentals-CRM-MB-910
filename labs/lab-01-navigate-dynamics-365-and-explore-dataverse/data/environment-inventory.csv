@@ -1,0 +1,10 @@
+Item,Value to record,Where to find it
+Environment name,,Power Platform admin center > Environments
+Environment type,,"Environments list, Type column"
+Region,,Environment detail page
+Dataverse URL,,Environment detail > Environment URL
+Dataverse version,,Environment detail > Dataverse section
+Base language / currency,,Environment detail > Dataverse section
+CE apps installed,,Resources > Dynamics 365 apps
+Your security roles,,Advanced Settings > Security > Users
+Account-Contact relationship,,make.powerapps.com > Tables > Account > Relationships

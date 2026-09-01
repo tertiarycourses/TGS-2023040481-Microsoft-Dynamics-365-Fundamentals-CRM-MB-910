@@ -1,0 +1,9 @@
+Work Order,Service Task,Estimated Duration (min),Sequence
+Espresso machine not powering on,Verify mains power and RCD,15,10
+Espresso machine not powering on,Inspect boiler pressure switch,30,20
+Espresso machine not powering on,Test power-on sequence,15,30
+Grinder calibration drift,Measure burr gap,20,10
+Grinder calibration drift,Run five-dose consistency test,25,20
+Cold brew dispenser tap leak,Isolate and drain dispenser,20,10
+Cold brew dispenser tap leak,Replace tap seal cartridge,30,20
+Cold brew dispenser tap leak,Pressure test and return to service,20,30

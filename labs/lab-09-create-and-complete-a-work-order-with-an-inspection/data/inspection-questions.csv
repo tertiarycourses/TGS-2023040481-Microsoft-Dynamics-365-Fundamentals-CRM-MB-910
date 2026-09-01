@@ -1,0 +1,6 @@
+Question,Type,Required,Notes
+Is the mains supply within tolerance?,Yes/No,Yes,Fail routes to an electrical escalation
+Boiler pressure reading (bar),Number,Yes,Expected range 0.8 - 1.2 bar
+Photograph of the damaged component,File / Photo,Yes,Attached to the work order for the claim
+Is the unit safe to return to service?,Yes/No,Yes,No answer blocks work order completion
+Technician notes,Text,No,Free text for anything the questions did not cover

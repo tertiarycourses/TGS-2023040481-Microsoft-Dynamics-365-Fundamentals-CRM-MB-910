@@ -1,0 +1,6 @@
+Product ID,Name,Unit Group,Default Unit,List Price (SGD),Description
+P-100,Contoso Espresso Machine E900,Default Unit,Primary Unit,8500.00,Dual-boiler commercial espresso machine
+P-101,Contoso Burr Grinder G200,Default Unit,Primary Unit,2200.00,Commercial on-demand burr grinder
+P-102,Cold Brew Dispenser CB50,Default Unit,Primary Unit,3400.00,50-litre nitro-ready cold brew dispenser
+P-103,Annual Service Plan,Default Unit,Primary Unit,1200.00,12-month preventive maintenance and priority support
+P-104,Barista Training Package,Default Unit,Primary Unit,950.00,Two-day on-site barista training for up to 6 staff

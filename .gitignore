@@ -1,0 +1,17 @@
+# ── Confidential — Google Drive only, NEVER GitHub ────────────────────────────
+assessment/
+reference/
+
+# ── Internal toolchain and generators (not learner-facing) ────────────────────
+.claude/
+build/
+
+# ── Credentials ──────────────────────────────────────────────────────────────
+.env
+courseware/.env
+*.key
+
+# ── OS / Python scratch ──────────────────────────────────────────────────────
+.DS_Store
+__pycache__/
+*.pyc

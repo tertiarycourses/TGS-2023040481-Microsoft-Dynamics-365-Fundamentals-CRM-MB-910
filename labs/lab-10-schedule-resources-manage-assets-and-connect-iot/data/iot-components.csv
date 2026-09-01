@@ -1,0 +1,8 @@
+Component,What it is,Example in this lab
+Customer Asset,The specific piece of equipment the customer owns,Espresso Machine E900 - Marina Bay (E900-SG-0417)
+Device Category,Groups devices of the same kind for shared configuration,Commercial espresso machines
+IoT Device,The registered physical device sending telemetry,E900-SG-0417 telemetry
+IoT Alert,A notification raised when telemetry breaches a rule,Boiler pressure exceeded 1.4 bar for 10 minutes
+IoT Device Command,An instruction sent back down to the device,Reset boiler controller
+Command Definition,The template describing an available command,Reset command with a confirmation parameter
+Property Definition,The telemetry properties a device reports,"Boiler pressure (bar), water temperature (C)"
