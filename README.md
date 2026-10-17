@@ -90,10 +90,13 @@ Each lab has **its own folder** containing the instructions, a **printable PDF**
 | Artifact | File |
 |----------|------|
 | 📘 **Learner Guide** (Markdown) | [LG-Microsoft Dynamics 365 Fundamentals (CRM) (MB-910).md](LG-Microsoft%20Dynamics%20365%20Fundamentals%20%28CRM%29%20%28MB-910%29.md) |
+| 📊 **Slide deck (v6)** | [PPTX](<courseware/WSQ - Master Trainer Slides - Microsoft Dynamics 365 Fundamentals (CRM) (MB-910) - v6.pptx>) · [PDF](<courseware/WSQ - Master Trainer Slides - Microsoft Dynamics 365 Fundamentals (CRM) (MB-910) - v6.pdf>) |
+| 📗 **Learner Guide** | [DOCX](<courseware/LG-Microsoft Dynamics 365 Fundamentals (CRM) (MB-910).docx>) · [PDF](<courseware/LG-Microsoft Dynamics 365 Fundamentals (CRM) (MB-910).pdf>) |
+| 🗓️ **Lesson Plan** | [DOCX](<courseware/LP-Microsoft Dynamics 365 Fundamentals (CRM) (MB-910).docx>) · [PDF](<courseware/LP-Microsoft Dynamics 365 Fundamentals (CRM) (MB-910).pdf>) |
 | 🧪 **Lab index** | [labs/README.md](labs/README.md) |
 | 🛠️ **Tools and portals** | [labs/tools.md](labs/tools.md) |
 
-> Slide deck, Lesson Plan and Learner Guide PDFs are distributed to enrolled learners through the **[LMS/TMS portal](https://lms-tms.tertiaryinfotech.com)**.
+> The slide deck includes a "Login to LMS and Download Course Material" slide showing how enrolled learners sign in to the **[LMS/TMS portal](https://lms-tms.tertiaryinfotech.com)** to download the course material.
 >
 > ⚠️ **Assessment papers, answer keys and marking guides are confidential trainer material and are deliberately not published in this repository.**
 
